@@ -1,15 +1,15 @@
 {
-  "version": "0.6.17",
-  "notes": "ViTalk v0.6.17 Windows x64 正式版。",
-  "pub_date": "2026-11-04T03:54:42.796Z",
+  "version": "0.6.18",
+  "notes": "ViTalk v0.6.18 Windows x64 正式版。",
+  "pub_date": "2026-11-04T10:18:07.018Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSK2NUNENKbGZ1VmlNOU5JaFRBcTlrQk9uMThUa3FtSm9hZFNXNFVKOExUVFRJc2p4YTZEcmNYYktadFBBaHg1QmNlc3FLdHRaYzlETVB6K3kzNzhpYmwyYTg4eGRodHdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzY0NDcxCWZpbGU6VmlUYWxrXzAuNi4xN194NjQtc2V0dXAuZXhlCklvVW1ZcUJIdGVTNEJ0MlM0b3kyREpVYkZZdlAxZXFNYWRCU1FUZGxqdlNmVW1ac3k4N1YxWGs1SWhFMDNhTjdtaHh4NkdFbkZoeEFIK1RmNTRON0JRPT0K",
-      "url": "https://api.github.com/repos/vilab-orulink/ViTalk-public/releases/assets/708132355"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSK2NUNENKbGZ1VnVocTBtYktjcm1TbHBKaFU0ZlAvdURKc2NmV0p3d1FjTFBwdjA2N3dKeXJRRnQ2TW9tRXVCYkZoUGkzWEF5VG1OMzhVMWdONVdMSUNlbHNRTCthTmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzg3MjcyCWZpbGU6VmlUYWxrXzAuNi4xOF94NjQtc2V0dXAuZXhlCmlOM3JHd3RoWDgvb1FBSkhVOGR4cWdHRHV6UTI2V1BYdVFzQStKUVBycFlIUm53azZZWmFveG91QUt3RzlBZi9zcmNWNXlXdFB6cEV2QlZLUEpaQUJnPT0K",
+      "url": "https://api.github.com/repos/vilab-orulink/ViTalk-public/releases/assets/709075370"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSK2NUNENKbGZ1VmlNOU5JaFRBcTlrQk9uMThUa3FtSm9hZFNXNFVKOExUVFRJc2p4YTZEcmNYYktadFBBaHg1QmNlc3FLdHRaYzlETVB6K3kzNzhpYmwyYTg4eGRodHdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzY0NDcxCWZpbGU6VmlUYWxrXzAuNi4xN194NjQtc2V0dXAuZXhlCklvVW1ZcUJIdGVTNEJ0MlM0b3kyREpVYkZZdlAxZXFNYWRCU1FUZGxqdlNmVW1ac3k4N1YxWGs1SWhFMDNhTjdtaHh4NkdFbkZoeEFIK1RmNTRON0JRPT0K",
-      "url": "https://api.github.com/repos/vilab-orulink/ViTalk-public/releases/assets/708132355"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSK2NUNENKbGZ1VnVocTBtYktjcm1TbHBKaFU0ZlAvdURKc2NmV0p3d1FjTFBwdjA2N3dKeXJRRnQ2TW9tRXVCYkZoUGkzWEF5VG1OMzhVMWdONVdMSUNlbHNRTCthTmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzg3MjcyCWZpbGU6VmlUYWxrXzAuNi4xOF94NjQtc2V0dXAuZXhlCmlOM3JHd3RoWDgvb1FBSkhVOGR4cWdHRHV6UTI2V1BYdVFzQStKUVBycFlIUm53azZZWmFveG91QUt3RzlBZi9zcmNWNXlXdFB6cEV2QlZLUEpaQUJnPT0K",
+      "url": "https://api.github.com/repos/vilab-orulink/ViTalk-public/releases/assets/709075370"
     }
   }
 }
