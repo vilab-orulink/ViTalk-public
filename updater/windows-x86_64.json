@@ -1,15 +1,15 @@
 {
   "version": "0.6.18",
-  "notes": "Windows x64：修复飞书消息再次打开确认窗时不可见，以及异常插件记录阻止安装的问题。",
-  "pub_date": "2026-11-05T03:08:32.198558+00:00",
+  "notes": "Windows x64：支持插件管理自己的飞书 CLI，改善商店目录和插件下载失败时的恢复。",
+  "pub_date": "2026-11-05T04:09:21.146977+00:00",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSK2NUNENKbGZ1Vms5RHhTbWRTNDVzcjdQUzA3dUdpYjl2aXViM3ZNOXdNS2NXWFduRXI1K3lSTmtMN0lZVGFVZ0FVU21ucGRDR1Q0U0N5NjNMRkN2N0dDTTJTMmFCaEFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODQ4MDM2CWZpbGU6VmlUYWxrXzAuNi4xOF94NjQtc2V0dXAuZXhlCjVUa0VYK3JDQUJ5Mkg1T0tWUHREN24vbTA0dkJ0NmlpZlJ3QUFTS1FOcldUYll0RGtHVU5YVWFwdTdHdU1iQnFTYWJrblVhaElSZkVVNWJ5RHlLV0JnPT0K",
-      "url": "https://api.github.com/repos/vilab-orulink/ViTalk-public/releases/assets/711863341"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSK2NUNENKbGZ1Vmh0MXp0STFJNFlrdHA3c2ljaVBXSVYyUkN5WGFOL0VES1RSdTd2clplTkp1UzhoZlBrQ0dXbEl6aGxON09Dckg1SlhaMnM1Tm14NDc0UVZxWkk1YUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODUxNTg0CWZpbGU6VmlUYWxrXzAuNi4xOF94NjQtc2V0dXAuZXhlClprdW9VNmdJRUZsOTViVmdRM0hPM3g5KytiMlplVnpOcjN5aGxNMHZPNmNETzVzYkdlT0ZGYVFza0RzanhOcU9FRHJRdGtVYUpwK3JKTzRjb0NsNkRBPT0K",
+      "url": "https://api.github.com/repos/vilab-orulink/ViTalk-public/releases/assets/712010627"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSK2NUNENKbGZ1Vms5RHhTbWRTNDVzcjdQUzA3dUdpYjl2aXViM3ZNOXdNS2NXWFduRXI1K3lSTmtMN0lZVGFVZ0FVU21ucGRDR1Q0U0N5NjNMRkN2N0dDTTJTMmFCaEFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODQ4MDM2CWZpbGU6VmlUYWxrXzAuNi4xOF94NjQtc2V0dXAuZXhlCjVUa0VYK3JDQUJ5Mkg1T0tWUHREN24vbTA0dkJ0NmlpZlJ3QUFTS1FOcldUYll0RGtHVU5YVWFwdTdHdU1iQnFTYWJrblVhaElSZkVVNWJ5RHlLV0JnPT0K",
-      "url": "https://api.github.com/repos/vilab-orulink/ViTalk-public/releases/assets/711863341"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSK2NUNENKbGZ1Vmh0MXp0STFJNFlrdHA3c2ljaVBXSVYyUkN5WGFOL0VES1RSdTd2clplTkp1UzhoZlBrQ0dXbEl6aGxON09Dckg1SlhaMnM1Tm14NDc0UVZxWkk1YUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODUxNTg0CWZpbGU6VmlUYWxrXzAuNi4xOF94NjQtc2V0dXAuZXhlClprdW9VNmdJRUZsOTViVmdRM0hPM3g5KytiMlplVnpOcjN5aGxNMHZPNmNETzVzYkdlT0ZGYVFza0RzanhOcU9FRHJRdGtVYUpwK3JKTzRjb0NsNkRBPT0K",
+      "url": "https://api.github.com/repos/vilab-orulink/ViTalk-public/releases/assets/712010627"
     }
   }
 }
