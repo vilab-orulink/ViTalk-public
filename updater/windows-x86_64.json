@@ -1,15 +1,15 @@
 {
-  "version": "0.6.18",
-  "notes": "Windows x64：支持插件管理自己的飞书 CLI，改善商店目录和插件下载失败时的恢复。",
-  "pub_date": "2026-11-05T04:09:21.146977+00:00",
   "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSK2NUNENKbGZ1Vmh0MXp0STFJNFlrdHA3c2ljaVBXSVYyUkN5WGFOL0VES1RSdTd2clplTkp1UzhoZlBrQ0dXbEl6aGxON09Dckg1SlhaMnM1Tm14NDc0UVZxWkk1YUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODUxNTg0CWZpbGU6VmlUYWxrXzAuNi4xOF94NjQtc2V0dXAuZXhlClprdW9VNmdJRUZsOTViVmdRM0hPM3g5KytiMlplVnpOcjN5aGxNMHZPNmNETzVzYkdlT0ZGYVFza0RzanhOcU9FRHJRdGtVYUpwK3JKTzRjb0NsNkRBPT0K",
-      "url": "https://api.github.com/repos/vilab-orulink/ViTalk-public/releases/assets/712010627"
-    },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSK2NUNENKbGZ1Vmh0MXp0STFJNFlrdHA3c2ljaVBXSVYyUkN5WGFOL0VES1RSdTd2clplTkp1UzhoZlBrQ0dXbEl6aGxON09Dckg1SlhaMnM1Tm14NDc0UVZxWkk1YUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODUxNTg0CWZpbGU6VmlUYWxrXzAuNi4xOF94NjQtc2V0dXAuZXhlClprdW9VNmdJRUZsOTViVmdRM0hPM3g5KytiMlplVnpOcjN5aGxNMHZPNmNETzVzYkdlT0ZGYVFza0RzanhOcU9FRHJRdGtVYUpwK3JKTzRjb0NsNkRBPT0K",
-      "url": "https://api.github.com/repos/vilab-orulink/ViTalk-public/releases/assets/712010627"
+      "url": "https://api.github.com/repos/vilab-orulink/ViTalk-public/releases/assets/713106144",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSK2NUNENKbGZ1VnVreDBKUnFiQm12aXljZWFrcjU0R3Bud0YvME9SemhOYlE0TW15My9kSVA2YTh2SDhxUy95d2o2dnVRa1ZIZUNoQ0g0TGQrYUFTQUwweVZYTHpCK0FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODc2NjMzCWZpbGU6VmlUYWxrXzAuNi4xOV94NjQtc2V0dXAuZXhlCjJuY2tBUE1uaWJCYWlwc01lWWFTUWhabUdMN0d5SXZXbXZucFZjRk5JZ1dXRmliZUZPeU5Gd1hyYTlXNmhzdW9uWVMvV1NRRUVaNFFUTFBtb1dtaEJBPT0K"
+    },
+    "windows-x86_64": {
+      "url": "https://api.github.com/repos/vilab-orulink/ViTalk-public/releases/assets/713106144",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSK2NUNENKbGZ1VnVreDBKUnFiQm12aXljZWFrcjU0R3Bud0YvME9SemhOYlE0TW15My9kSVA2YTh2SDhxUy95d2o2dnVRa1ZIZUNoQ0g0TGQrYUFTQUwweVZYTHpCK0FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODc2NjMzCWZpbGU6VmlUYWxrXzAuNi4xOV94NjQtc2V0dXAuZXhlCjJuY2tBUE1uaWJCYWlwc01lWWFTUWhabUdMN0d5SXZXbXZucFZjRk5JZ1dXRmliZUZPeU5Gd1hyYTlXNmhzdW9uWVMvV1NRRUVaNFFUTFBtb1dtaEJBPT0K"
     }
-  }
+  },
+  "pub_date": "2026-11-05T11:06:10.7137101Z",
+  "notes": "ViTalk v0.6.19 Windows x64：改进服务模型选择及插件管理。",
+  "version": "0.6.19"
 }
