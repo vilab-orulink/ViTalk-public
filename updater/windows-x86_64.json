@@ -1,15 +1,15 @@
 {
+  "version": "0.6.20",
+  "notes": "ViTalk v0.6.20：改进插件通用运行能力、语音生命周期和商店兼容检查。",
+  "pub_date": "2026-11-09T03:09:30.864090Z",
   "platforms": {
-    "windows-x86_64-nsis": {
-      "url": "https://api.github.com/repos/vilab-orulink/ViTalk-public/releases/assets/713106144",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSK2NUNENKbGZ1VnVreDBKUnFiQm12aXljZWFrcjU0R3Bud0YvME9SemhOYlE0TW15My9kSVA2YTh2SDhxUy95d2o2dnVRa1ZIZUNoQ0g0TGQrYUFTQUwweVZYTHpCK0FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODc2NjMzCWZpbGU6VmlUYWxrXzAuNi4xOV94NjQtc2V0dXAuZXhlCjJuY2tBUE1uaWJCYWlwc01lWWFTUWhabUdMN0d5SXZXbXZucFZjRk5JZ1dXRmliZUZPeU5Gd1hyYTlXNmhzdW9uWVMvV1NRRUVaNFFUTFBtb1dtaEJBPT0K"
-    },
     "windows-x86_64": {
-      "url": "https://api.github.com/repos/vilab-orulink/ViTalk-public/releases/assets/713106144",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSK2NUNENKbGZ1VnVreDBKUnFiQm12aXljZWFrcjU0R3Bud0YvME9SemhOYlE0TW15My9kSVA2YTh2SDhxUy95d2o2dnVRa1ZIZUNoQ0g0TGQrYUFTQUwweVZYTHpCK0FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODc2NjMzCWZpbGU6VmlUYWxrXzAuNi4xOV94NjQtc2V0dXAuZXhlCjJuY2tBUE1uaWJCYWlwc01lWWFTUWhabUdMN0d5SXZXbXZucFZjRk5JZ1dXRmliZUZPeU5Gd1hyYTlXNmhzdW9uWVMvV1NRRUVaNFFUTFBtb1dtaEJBPT0K"
+      "url": "https://github.com/vilab-orulink/ViTalk-public/releases/download/v0.6.20/ViTalk_0.6.20_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSK2NUNENKbGZ1VmwvL2RzS3BDdTNFTlNQcUR3NkVUUEdweFdZcExETXc3M1o4Ny8vdWxpakxhSlE3dHJzNXdJVjZPUmp6ejF6SDFXM21Jd1duTXhKcE9Ta3VTU3NSZXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTkzMzkyCWZpbGU6VmlUYWxrXzAuNi4yMF94NjQtc2V0dXAuZXhlCkdSallqb0UrWmRmbGJ3UnZQSE1COXFjN0M5Rzl1K0l5Y3NTSEZBb0M2UnRNaGtqeGxJYnUzODJhQ2N0czE1UDRXb29KQTJXN3JYckR4RGZSSHJsOEJBPT0K"
+    },
+    "windows-x86_64-nsis": {
+      "url": "https://github.com/vilab-orulink/ViTalk-public/releases/download/v0.6.20/ViTalk_0.6.20_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSK2NUNENKbGZ1VmwvL2RzS3BDdTNFTlNQcUR3NkVUUEdweFdZcExETXc3M1o4Ny8vdWxpakxhSlE3dHJzNXdJVjZPUmp6ejF6SDFXM21Jd1duTXhKcE9Ta3VTU3NSZXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTkzMzkyCWZpbGU6VmlUYWxrXzAuNi4yMF94NjQtc2V0dXAuZXhlCkdSallqb0UrWmRmbGJ3UnZQSE1COXFjN0M5Rzl1K0l5Y3NTSEZBb0M2UnRNaGtqeGxJYnUzODJhQ2N0czE1UDRXb29KQTJXN3JYckR4RGZSSHJsOEJBPT0K"
     }
-  },
-  "pub_date": "2026-11-05T11:06:10.7137101Z",
-  "notes": "ViTalk v0.6.19 Windows x64：改进服务模型选择及插件管理。",
-  "version": "0.6.19"
+  }
 }
