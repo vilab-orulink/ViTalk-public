@@ -1,15 +1,15 @@
 {
-  "version": "0.6.20",
-  "notes": "ViTalk v0.6.20：改进插件通用运行能力、语音生命周期和商店兼容检查。",
-  "pub_date": "2026-11-09T03:09:30.864090Z",
+  "version": "0.6.21",
+  "notes": "ViTalk v0.6.21：修复新版插件目录读取；覆盖安装自动关闭并移除旧程序文件，保留账号、配置和本地数据。",
+  "pub_date": "2026-11-09T06:28:48.474254Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/vilab-orulink/ViTalk-public/releases/download/v0.6.20/ViTalk_0.6.20_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSK2NUNENKbGZ1VmwvL2RzS3BDdTNFTlNQcUR3NkVUUEdweFdZcExETXc3M1o4Ny8vdWxpakxhSlE3dHJzNXdJVjZPUmp6ejF6SDFXM21Jd1duTXhKcE9Ta3VTU3NSZXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTkzMzkyCWZpbGU6VmlUYWxrXzAuNi4yMF94NjQtc2V0dXAuZXhlCkdSallqb0UrWmRmbGJ3UnZQSE1COXFjN0M5Rzl1K0l5Y3NTSEZBb0M2UnRNaGtqeGxJYnUzODJhQ2N0czE1UDRXb29KQTJXN3JYckR4RGZSSHJsOEJBPT0K"
+      "url": "https://github.com/vilab-orulink/ViTalk-public/releases/download/v0.6.21/ViTalk_0.6.21_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSK2NUNENKbGZ1Vmh2QnpUdk0zcUdOVW1OSFp5Yjk2Q282N0V2U0IxandGaStzL3NReWVJVEE2RkRmWTNHUktMb0lobHNGYnhTdnBpd1ZQclErdE00NCtJZlV4cVpjcWdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjA1NjU4CWZpbGU6VmlUYWxrXzAuNi4yMV94NjQtc2V0dXAuZXhlClRVTytnUEhHQ2RMYWZFVUZ1SDF6Q3EwYmNnYktHV1o2YS9sRWxJeXY5MTZ3N09VRjUybzJnR2xXUmU0bFNrZUNkbHFXWUV5NTd5RjF5OGhaSWY5RkJBPT0K"
     },
     "windows-x86_64-nsis": {
-      "url": "https://github.com/vilab-orulink/ViTalk-public/releases/download/v0.6.20/ViTalk_0.6.20_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSK2NUNENKbGZ1VmwvL2RzS3BDdTNFTlNQcUR3NkVUUEdweFdZcExETXc3M1o4Ny8vdWxpakxhSlE3dHJzNXdJVjZPUmp6ejF6SDFXM21Jd1duTXhKcE9Ta3VTU3NSZXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTkzMzkyCWZpbGU6VmlUYWxrXzAuNi4yMF94NjQtc2V0dXAuZXhlCkdSallqb0UrWmRmbGJ3UnZQSE1COXFjN0M5Rzl1K0l5Y3NTSEZBb0M2UnRNaGtqeGxJYnUzODJhQ2N0czE1UDRXb29KQTJXN3JYckR4RGZSSHJsOEJBPT0K"
+      "url": "https://github.com/vilab-orulink/ViTalk-public/releases/download/v0.6.21/ViTalk_0.6.21_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSK2NUNENKbGZ1Vmh2QnpUdk0zcUdOVW1OSFp5Yjk2Q282N0V2U0IxandGaStzL3NReWVJVEE2RkRmWTNHUktMb0lobHNGYnhTdnBpd1ZQclErdE00NCtJZlV4cVpjcWdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjA1NjU4CWZpbGU6VmlUYWxrXzAuNi4yMV94NjQtc2V0dXAuZXhlClRVTytnUEhHQ2RMYWZFVUZ1SDF6Q3EwYmNnYktHV1o2YS9sRWxJeXY5MTZ3N09VRjUybzJnR2xXUmU0bFNrZUNkbHFXWUV5NTd5RjF5OGhaSWY5RkJBPT0K"
     }
   }
 }
