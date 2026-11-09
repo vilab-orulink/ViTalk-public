@@ -1,15 +1,15 @@
 {
   "version": "0.6.21",
-  "notes": "ViTalk v0.6.21：修复新版插件目录读取；覆盖安装自动关闭并移除旧程序文件，保留账号、配置和本地数据。",
-  "pub_date": "2026-11-09T06:28:48.474254Z",
+  "notes": "ViTalk v0.6.21 修订版：修复插件页面容器宽度；首次启动先选择云端或本地，云端登录后选择模型即可；修复切换模型后的下一步状态。",
+  "pub_date": "2026-11-09T07:47:42Z",
   "platforms": {
     "windows-x86_64": {
       "url": "https://github.com/vilab-orulink/ViTalk-public/releases/download/v0.6.21/ViTalk_0.6.21_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSK2NUNENKbGZ1Vmh2QnpUdk0zcUdOVW1OSFp5Yjk2Q282N0V2U0IxandGaStzL3NReWVJVEE2RkRmWTNHUktMb0lobHNGYnhTdnBpd1ZQclErdE00NCtJZlV4cVpjcWdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjA1NjU4CWZpbGU6VmlUYWxrXzAuNi4yMV94NjQtc2V0dXAuZXhlClRVTytnUEhHQ2RMYWZFVUZ1SDF6Q3EwYmNnYktHV1o2YS9sRWxJeXY5MTZ3N09VRjUybzJnR2xXUmU0bFNrZUNkbHFXWUV5NTd5RjF5OGhaSWY5RkJBPT0K"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSK2NUNENKbGZ1VmowWHowSzlhS29qc080LytOSzlRdFphcmFEYnBuQktmMUlNZDBmNXRlNXFwN3hrZ3Q1WXlodlJsUHVlTEFDeG1yRTl5SnhxMGNYS2ZwdjRQZmFBSHd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjEwMjQ1CWZpbGU6VmlUYWxrXzAuNi4yMV94NjQtc2V0dXAuZXhlCjJwRjgzdk40TkowdTZ1Mlh5djZDN2hQUzZqL2hKODg0RndhVExNZ0xSSUxJUDNyUTczMkRsUmNFeGtaYzBYdS9WN0ZyNDR1bWVWeC9rSGU4SmhNY0J3PT0K"
     },
     "windows-x86_64-nsis": {
       "url": "https://github.com/vilab-orulink/ViTalk-public/releases/download/v0.6.21/ViTalk_0.6.21_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSK2NUNENKbGZ1Vmh2QnpUdk0zcUdOVW1OSFp5Yjk2Q282N0V2U0IxandGaStzL3NReWVJVEE2RkRmWTNHUktMb0lobHNGYnhTdnBpd1ZQclErdE00NCtJZlV4cVpjcWdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjA1NjU4CWZpbGU6VmlUYWxrXzAuNi4yMV94NjQtc2V0dXAuZXhlClRVTytnUEhHQ2RMYWZFVUZ1SDF6Q3EwYmNnYktHV1o2YS9sRWxJeXY5MTZ3N09VRjUybzJnR2xXUmU0bFNrZUNkbHFXWUV5NTd5RjF5OGhaSWY5RkJBPT0K"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSK2NUNENKbGZ1VmowWHowSzlhS29qc080LytOSzlRdFphcmFEYnBuQktmMUlNZDBmNXRlNXFwN3hrZ3Q1WXlodlJsUHVlTEFDeG1yRTl5SnhxMGNYS2ZwdjRQZmFBSHd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjEwMjQ1CWZpbGU6VmlUYWxrXzAuNi4yMV94NjQtc2V0dXAuZXhlCjJwRjgzdk40TkowdTZ1Mlh5djZDN2hQUzZqL2hKODg0RndhVExNZ0xSSUxJUDNyUTczMkRsUmNFeGtaYzBYdS9WN0ZyNDR1bWVWeC9rSGU4SmhNY0J3PT0K"
     }
   }
 }
